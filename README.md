@@ -139,3 +139,6 @@ python manage.py test
 
 This project is open source and available for educational purposes.
 
+## Live Deployment 
+
+Live URL: https://ostad-batch-09.onrender.com/
