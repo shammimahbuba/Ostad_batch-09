@@ -139,6 +139,10 @@ python manage.py test
 
 This project is open source and available for educational purposes.
 
+## Feature Update
+
+This section was added in the feature-update branch to demonstrate Git branching workflow.
+
 ## Live Deployment 
 
 Live URL: https://ostad-batch-09.onrender.com/
